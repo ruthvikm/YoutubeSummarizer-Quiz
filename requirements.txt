@@ -1,0 +1,9 @@
+assemblyai==0.33.0
+streamlit==1.38.0
+yt_dlp==2024.8.6
+requests==2.32.3
+youtube_transcript_api==0.6.2
+google.generativeai==0.7.2
+python-dotenv==1.0.0
+fpdf
+sympy
